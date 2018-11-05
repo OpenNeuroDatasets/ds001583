@@ -1,0 +1,76 @@
+onset	duration	Subj	trial	trial_type	stop	go	go_prob	rt
+1.815401	1	SS49	 1	StopTrialResponse	0	1	   0	540.505
+7.806064	1	SS49	 2	StopTrialResponse	0	1	0.75	537.664
+12.30817	1	SS49	 3	StopTrialResponse	0	1	 0.5	538.722
+24.31035	1	SS49	 4	StopTrialResponse	0	1	0.25	537.512
+ 27.3005	1	SS49	 5	25pStop          	1	0	0.25	    NaN
+39.30994	1	SS49	 6	StopTrialResponse	0	1	 0.5	538.856
+45.32043	1	SS49	 7	0pStop           	1	0	   0	    NaN
+51.31164	1	SS49	 8	StopTrialResponse	0	1	 0.5	539.609
+57.30888	1	SS49	 9	0pStop           	1	0	   0	    NaN
+60.30031	1	SS49	10	StopTrialResponse	0	1	0.75	537.663
+ 64.8044	1	SS49	11	StopTrialResponse	0	1	 0.5	538.651
+69.31095	1	SS49	12	StopTrialResponse	0	1	 0.5	539.564
+76.80684	1	SS49	13	StopTrialResponse	0	1	0.75	538.402
+88.80637	1	SS49	14	StopTrialResponse	0	1	 0.5	 539.64
+91.81603	1	SS49	15	25pStop          	1	0	0.25	    NaN
+96.30838	1	SS49	16	StopTrialResponse	0	1	0.75	539.374
+102.3187	1	SS49	17	StopTrialResponse	0	1	 0.5	537.567
+106.8044	1	SS49	18	100pGo           	0	1	   1	505.913
+111.3183	1	SS49	19	StopTrialResponse	0	1	 0.5	539.428
+117.3125	1	SS49	20	StopTrialResponse	0	1	 0.5	539.054
+121.8068	1	SS49	21	StopTrialResponse	0	1	0.75	537.895
+126.3083	1	SS49	22	StopTrialResponse	0	1	0.25	538.102
+135.3123	1	SS49	23	25pStop          	1	0	0.25	    NaN
+142.8047	1	SS49	24	100pGo           	0	1	   1	537.574
+145.8058	1	SS49	25	StopTrialResponse	0	1	   0	537.733
+159.3179	1	SS49	26	25pStop          	1	0	0.25	    NaN
+172.8118	1	SS49	27	100pStop         	1	0	   1	    NaN
+178.8129	1	SS49	28	StopTrialResponse	0	1	0.25	538.618
+ 181.805	1	SS49	29	StopTrialResponse	0	1	0.75	537.949
+195.3191	1	SS49	30	StopTrialResponse	0	1	0.75	538.754
+198.3106	1	SS49	31	StopTrialResponse	0	1	0.75	538.547
+202.8121	1	SS49	32	0pStop           	1	0	   0	    NaN
+208.8073	1	SS49	33	StopTrialResponse	0	1	0.25	537.825
+213.3136	1	SS49	34	100pGo           	0	1	   1	490.235
+219.3117	1	SS49	35	StopTrialResponse	0	1	   0	538.286
+223.8133	1	SS49	36	StopTrialResponse	0	1	0.25	539.283
+229.8142	1	SS49	37	50pStop          	1	0	 0.5	    NaN
+243.3215	1	SS49	38	100pGo           	0	1	   1	537.964
+ 252.318	1	SS49	39	StopTrialResponse	0	1	 0.5	463.573
+256.8166	1	SS49	40	25pStop          	1	0	0.25	    NaN
+267.3114	1	SS49	41	25pStop          	1	0	0.25	    NaN
+271.8231	1	SS49	42	StopTrialResponse	0	1	0.75	539.562
+282.3171	1	SS49	43	100pGo           	0	1	   1	 539.57
+288.3205	1	SS49	44	100pGo           	0	1	   1	527.456
+291.3175	1	SS49	45	0pStop           	1	0	   0	    NaN
+295.8127	1	SS49	46	StopTrialResponse	0	1	0.75	528.195
+301.8065	1	SS49	47	75pStop          	1	0	0.75	    NaN
+310.8224	1	SS49	48	0pStop           	1	0	   0	    NaN
+ 315.311	1	SS49	49	25pStop          	1	0	0.25	    NaN
+321.3165	1	SS49	50	StopTrialResponse	0	1	 0.5	528.564
+325.8131	1	SS49	51	100pGo           	0	1	   1	539.641
+ 336.307	1	SS49	52	100pGo           	0	1	   1	539.088
+349.8221	1	SS49	53	100pGo           	0	1	   1	445.765
+  354.32	1	SS49	54	StopTrialResponse	0	1	0.75	453.677
+361.8122	1	SS49	55	StopTrialResponse	0	1	   0	538.529
+364.8126	1	SS49	56	0pStop           	1	0	   0	    NaN
+369.3084	1	SS49	57	100pGo           	0	1	   1	433.282
+ 376.825	1	SS49	58	StopTrialResponse	0	1	0.75	460.344
+382.8151	1	SS49	59	100pGo           	0	1	   1	517.983
+387.3184	1	SS49	60	25pStop          	1	0	0.25	    NaN
+391.8122	1	SS49	61	0pStop           	1	0	   0	    NaN
+400.8179	1	SS49	62	75pStop          	1	0	0.75	    NaN
+403.8129	1	SS49	63	StopTrialResponse	0	1	0.75	536.864
+408.3193	1	SS49	64	100pGo           	0	1	   1	471.379
+412.8124	1	SS49	65	StopTrialResponse	0	1	0.25	440.913
+418.8124	1	SS49	66	StopTrialResponse	0	1	0.25	539.087
+423.3199	1	SS49	67	StopTrialResponse	0	1	 0.5	539.324
+432.3172	1	SS49	68	0pStop           	1	0	   0	    NaN
+436.8122	1	SS49	69	0pStop           	1	0	   0	    NaN
+447.3271	1	SS49	70	50pStop          	1	0	 0.5	    NaN
+450.3212	1	SS49	71	StopTrialResponse	0	1	 0.5	539.682
+ 460.832	1	SS49	72	StopTrialResponse	0	1	   0	539.312
+468.3189	1	SS49	73	StopTrialResponse	0	1	   0	 88.977
+480.3211	1	SS49	74	100pGo           	0	1	   1	538.893
+492.3301	1	SS49	75	100pGo           	0	1	   1	427.382
