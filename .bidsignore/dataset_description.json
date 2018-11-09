@@ -1,15 +1,10 @@
 {
-    "Name": "",
-    "BIDSVersion": "1.0.2",
-    "License": "",
-    "Authors": [
-        ""
-    ],
-    "Acknowledgments": "",
-    "HowToAcknowledge": "",
-    "Funding": "",
-    "ReferencesAndLinks": [
-        ""
-    ],
-    "DatasetDOI": ""
+  "Name": "ProStop",
+  "BIDSVersion": "1.1.1",
+  "Authors": [ 
+    "Kyle Dunovan",
+    "Brighid Lynch",
+    "Tara Molesworth",
+    "Timothy Verstynen" ],
+  "Funding": "Pennsylvania State Department of Health Formula Award, Army Research Laboratory under Cooperative Agreement"
 }
