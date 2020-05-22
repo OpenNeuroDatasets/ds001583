@@ -1,0 +1,51 @@
+{
+  "descriptions": [
+  {
+      "dataType": "func",
+      "customLabels": "task-proactive",
+      "modalityLabel": "bold",
+      "criteria": {
+        "SeriesDescription": "epi_SSproactive*"
+            }
+        },
+    {
+      "dataType": "anat",
+      "modalityLabel": "T2w",
+      "criteria": {
+        "SeriesDescription": "t2_spc_sag*"
+            }
+        },
+        {
+      "dataType": "func",
+      "customLabels": "task-reactive",
+      "modalityLabel": "bold",
+      "criteria": {
+        "SeriesDescription": "epi_SSreactive*"
+      }
+    },
+    {
+      "dataType": "anat",
+      "modalityLabel": "T1w",
+      "criteria": {
+        "SeriesDescription": "*t1*"
+            }
+        },
+    {
+      "dataType": "func",
+      "customLabels": "task-rest",
+      "customLabels": "acq-PA",
+      "modalityLabel": "bold",
+      "criteria": {
+        "SeriesDescription": "*OppPhase*"
+          }
+        },
+      {
+      "dataType": "func",
+      "customLabels": "task-localizer",
+      "modalityLabel": "T1",
+      "criteria": {
+        "SeriesDescription": "localizer*"
+          }
+        }
+  ]
+}
