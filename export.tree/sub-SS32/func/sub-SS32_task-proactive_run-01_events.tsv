@@ -1,0 +1,76 @@
+onset	duration	Subj	trial	trial_type	stop	go	go_prob	rt
+1.819493	1	SS32	 1	50pStop          	1	0	 0.5	    NaN
+15.32002	1	SS32	 2	StopTrialResponse	0	1	0.75	526.217
+19.80622	1	SS32	 3	StopTrialResponse	0	1	 0.5	538.506
+22.80225	1	SS32	 4	StopTrialResponse	0	1	0.25	537.681
+25.81037	1	SS32	 5	0pStop           	1	0	   0	    NaN
+31.80229	1	SS32	 6	StopTrialResponse	0	1	0.75	531.826
+34.80004	1	SS32	 7	25pStop          	1	0	0.25	    NaN
+43.80642	1	SS32	 8	StopTrialResponse	0	1	0.75	537.975
+55.80465	1	SS32	 9	100pGo           	0	1	   1	538.014
+69.31847	1	SS32	10	0pStop           	1	0	   0	    NaN
+75.32165	1	SS32	11	StopTrialResponse	0	1	 0.5	538.299
+ 79.8064	1	SS32	12	0pStop           	1	0	   0	    NaN
+ 87.3103	1	SS32	13	50pStop          	1	0	 0.5	    NaN
+91.80249	1	SS32	14	StopTrialResponse	0	1	0.75	539.717
+96.31205	1	SS32	15	StopTrialResponse	0	1	0.75	537.596
+102.3102	1	SS32	16	100pGo           	0	1	   1	538.471
+106.8017	1	SS32	17	0pStop           	1	0	   0	    NaN
+109.8026	1	SS32	18	50pStop          	1	0	 0.5	    NaN
+115.8096	1	SS32	19	0pStop           	1	0	   0	    NaN
+120.3063	1	SS32	20	0pStop           	1	0	   0	    NaN
+133.8105	1	SS32	21	100pGo           	0	1	   1	538.044
+142.8077	1	SS32	22	100pGo           	0	1	   1	518.928
+148.8015	1	SS32	23	StopTrialResponse	0	1	0.75	539.037
+153.3192	1	SS32	24	100pGo           	0	1	   1	539.464
+163.8012	1	SS32	25	StopTrialResponse	0	1	0.75	 538.24
+166.8191	1	SS32	26	25pStop          	1	0	0.25	    NaN
+172.8017	1	SS32	27	50pStop          	1	0	 0.5	    NaN
+183.3215	1	SS32	28	StopTrialResponse	0	1	0.75	533.034
+193.8123	1	SS32	29	StopTrialResponse	0	1	0.75	538.307
+207.3131	1	SS32	30	100pGo           	0	1	   1	539.488
+214.8252	1	SS32	31	75pStop          	1	0	0.75	    NaN
+220.8126	1	SS32	32	75pStop          	1	0	0.75	    NaN
+229.8177	1	SS32	33	25pStop          	1	0	0.25	    NaN
+241.8095	1	SS32	34	50pStop          	1	0	 0.5	    NaN
+250.8122	1	SS32	35	25pStop          	1	0	0.25	    NaN
+258.3108	1	SS32	36	StopTrialResponse	0	1	0.75	539.406
+262.8099	1	SS32	37	StopTrialResponse	0	1	0.75	538.456
+268.8171	1	SS32	38	100pGo           	0	1	   1	539.872
+273.3273	1	SS32	39	0pStop           	1	0	   0	    NaN
+  277.81	1	SS32	40	50pStop          	1	0	 0.5	    NaN
+ 280.824	1	SS32	41	25pStop          	1	0	0.25	    NaN
+285.3107	1	SS32	42	50pStop          	1	0	 0.5	    NaN
+291.3285	1	SS32	43	0pStop           	1	0	   0	    NaN
+295.8092	1	SS32	44	25pStop          	1	0	0.25	    NaN
+301.8093	1	SS32	45	100pGo           	0	1	   1	509.497
+307.8139	1	SS32	46	100pGo           	0	1	   1	539.677
+313.8107	1	SS32	47	25pStop          	1	0	0.25	    NaN
+318.3213	1	SS32	48	25pStop          	1	0	0.25	    NaN
+331.8099	1	SS32	49	StopTrialResponse	0	1	 0.5	539.353
+336.3222	1	SS32	50	25pStop          	1	0	0.25	    NaN
+339.3238	1	SS32	51	100pGo           	0	1	   1	538.142
+342.3219	1	SS32	52	0pStop           	1	0	   0	    NaN
+354.3178	1	SS32	53	25pStop          	1	0	0.25	    NaN
+360.3253	1	SS32	54	25pStop          	1	0	0.25	    NaN
+364.8143	1	SS32	55	25pStop          	1	0	0.25	    NaN
+369.3196	1	SS32	56	0pStop           	1	0	   0	    NaN
+ 375.328	1	SS32	57	100pGo           	0	1	   1	  538.7
+379.8105	1	SS32	58	0pStop           	1	0	   0	    NaN
+382.8151	1	SS32	59	100pGo           	0	1	   1	539.653
+387.3178	1	SS32	60	50pStop          	1	0	 0.5	    NaN
+ 399.322	1	SS32	61	StopTrialResponse	0	1	 0.5	539.187
+403.8169	1	SS32	62	StopTrialResponse	0	1	 0.5	540.355
+408.3229	1	SS32	63	25pStop          	1	0	0.25	    NaN
+418.8224	1	SS32	64	25pStop          	1	0	0.25	    NaN
+423.3285	1	SS32	65	0pStop           	1	0	   0	    NaN
+432.3276	1	SS32	66	0pStop           	1	0	   0	    NaN
+ 436.823	1	SS32	67	StopTrialResponse	0	1	 0.5	537.812
+444.3178	1	SS32	68	0pStop           	1	0	   0	    NaN
+448.8178	1	SS32	69	100pGo           	0	1	   1	538.201
+460.8292	1	SS32	70	StopTrialResponse	0	1	0.75	537.523
+  465.32	1	SS32	71	50pStop          	1	0	 0.5	    NaN
+471.3295	1	SS32	72	100pGo           	0	1	   1	537.989
+ 474.319	1	SS32	73	100pGo           	0	1	   1	539.932
+478.8222	1	SS32	74	0pStop           	1	0	   0	    NaN
+489.3283	1	SS32	75	StopTrialResponse	0	1	0.75	538.225
