@@ -1,0 +1,76 @@
+onset	duration	Subj	trial	trial_type	stop	go	go_prob	rt
+1.826088	1	SS40	 1	0pStop           	1	0	   0	    NaN
+6.312015	1	SS40	 2	100pGo           	0	1	   1	537.985
+9.308944	1	SS40	 3	100pGo           	0	1	   1	539.343
+15.31833	1	SS40	 4	100pGo           	0	1	   1	537.742
+19.80469	1	SS40	 5	0pStop           	1	0	   0	    NaN
+27.31122	1	SS40	 6	25pStop          	1	0	0.25	    NaN
+ 40.8262	1	SS40	 7	50pStop          	1	0	 0.5	    NaN
+52.82443	1	SS40	 8	StopTrialResponse	0	1	0.75	538.075
+58.81267	1	SS40	 9	25pStop          	1	0	0.25	    NaN
+63.31015	1	SS40	10	StopTrialResponse	0	1	0.25	539.289
+72.31099	1	SS40	11	StopTrialResponse	0	1	 0.5	537.665
+85.81653	1	SS40	12	100pGo           	0	1	   1	539.765
+90.30888	1	SS40	13	0pStop           	1	0	   0	    NaN
+94.81593	1	SS40	14	25pStop          	1	0	0.25	    NaN
+99.31005	1	SS40	15	75pStop          	1	0	0.75	    NaN
+102.3293	1	SS40	16	75pStop          	1	0	0.75	    NaN
+112.8137	1	SS40	17	25pStop          	1	0	0.25	    NaN
+115.8135	1	SS40	18	100pGo           	0	1	   1	538.978
+  120.31	1	SS40	19	100pGo           	0	1	   1	538.598
+126.3092	1	SS40	20	0pStop           	1	0	   0	    NaN
+130.8231	1	SS40	21	0pStop           	1	0	   0	    NaN
+ 136.816	1	SS40	22	75pStop          	1	0	0.75	    NaN
+141.3183	1	SS40	23	75pStop          	1	0	0.75	    NaN
+148.8153	1	SS40	24	0pStop           	1	0	   0	    NaN
+154.8229	1	SS40	25	StopTrialResponse	0	1	0.75	538.416
+159.3095	1	SS40	26	50pStop          	1	0	 0.5	    NaN
+162.3274	1	SS40	27	100pGo           	0	1	   1	538.345
+169.8134	1	SS40	28	50pStop          	1	0	 0.5	    NaN
+174.3194	1	SS40	29	100pGo           	0	1	   1	538.456
+187.8129	1	SS40	30	50pStop          	1	0	 0.5	    NaN
+192.3087	1	SS40	31	100pGo           	0	1	   1	 540.02
+196.8167	1	SS40	32	StopTrialResponse	0	1	0.75	538.707
+202.8234	1	SS40	33	0pStop           	1	0	   0	    NaN
+205.8158	1	SS40	34	25pStop          	1	0	0.25	    NaN
+216.3167	1	SS40	35	0pStop           	1	0	   0	    NaN
+220.8247	1	SS40	36	0pStop           	1	0	   0	    NaN
+223.8153	1	SS40	37	100pGo           	0	1	   1	538.374
+229.8142	1	SS40	38	50pStop          	1	0	 0.5	    NaN
+235.8165	1	SS40	39	25pStop          	1	0	0.25	    NaN
+247.8238	1	SS40	40	25pStop          	1	0	0.25	    NaN
+255.3194	1	SS40	41	50pStop          	1	0	 0.5	    NaN
+259.8135	1	SS40	42	25pStop          	1	0	0.25	    NaN
+265.8211	1	SS40	43	StopTrialResponse	0	1	 0.5	538.674
+273.3169	1	SS40	44	StopTrialResponse	0	1	0.75	537.609
+277.8174	1	SS40	45	0pStop           	1	0	   0	    NaN
+283.8298	1	SS40	46	StopTrialResponse	0	1	0.75	538.615
+288.3187	1	SS40	47	0pStop           	1	0	   0	    NaN
+292.8363	1	SS40	48	StopTrialResponse	0	1	 0.5	539.176
+298.8218	1	SS40	49	0pStop           	1	0	   0	    NaN
+309.3249	1	SS40	50	StopTrialResponse	0	1	0.75	538.887
+312.3285	1	SS40	51	0pStop           	1	0	   0	    NaN
+324.3204	1	SS40	52	StopTrialResponse	0	1	0.75	 538.43
+328.8237	1	SS40	53	0pStop           	1	0	   0	    NaN
+342.3323	1	SS40	54	100pGo           	0	1	   1	538.465
+354.3293	1	SS40	55	50pStop          	1	0	 0.5	    NaN
+358.8225	1	SS40	56	25pStop          	1	0	0.25	    NaN
+363.3314	1	SS40	57	StopTrialResponse	0	1	0.25	 540.02
+366.3203	1	SS40	58	StopTrialResponse	0	1	0.75	538.606
+375.3259	1	SS40	59	100pGo           	0	1	   1	539.418
+384.3259	1	SS40	60	StopTrialResponse	0	1	0.75	538.882
+390.3178	1	SS40	61	StopTrialResponse	0	1	0.75	537.825
+403.8314	1	SS40	62	100pGo           	0	1	   1	539.345
+414.3369	1	SS40	63	StopTrialResponse	0	1	0.75	539.277
+426.3372	1	SS40	64	50pStop          	1	0	 0.5	    NaN
+  429.32	1	SS40	65	25pStop          	1	0	0.25	    NaN
+433.8318	1	SS40	66	StopTrialResponse	0	1	 0.5	538.175
+438.3188	1	SS40	67	50pStop          	1	0	 0.5	    NaN
+ 448.823	1	SS40	68	100pGo           	0	1	   1	537.794
+453.3191	1	SS40	69	25pStop          	1	0	0.25	    NaN
+459.3302	1	SS40	70	0pStop           	1	0	   0	    NaN
+468.3272	1	SS40	71	100pGo           	0	1	   1	539.317
+471.3349	1	SS40	72	50pStop          	1	0	 0.5	    NaN
+480.3125	1	SS40	73	StopTrialResponse	0	1	 0.5	539.639
+486.3191	1	SS40	74	25pStop          	1	0	0.25	    NaN
+ 492.334	1	SS40	75	25pStop          	1	0	0.25	    NaN
